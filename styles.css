@@ -8,3 +8,12 @@
   /* align-items: center;
   justify-content: center; */
 }
+
+.container {
+  display: flex;
+}
+
+.main-content {
+  margin-top: 5px;
+  margin-left: 100px;
+}
